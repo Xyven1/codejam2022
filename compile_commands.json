@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/x86_64-linux-gnu-g++-11",
+      "-c",
+      "-Wall",
+      "-g",
+      "-std=c++17",
+      "chain.cpp",
+      "-o",
+      "chain"
+    ],
+    "directory": "/home/xyven/code/codejam2022",
+    "file": "/home/xyven/code/codejam2022/chain.cpp",
+    "output": "/home/xyven/code/codejam2022/chain.o"
+  }
+]
